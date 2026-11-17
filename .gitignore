@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.docudino/
+docudino-data/
+.env
+*.log
+.pytest_cache/
